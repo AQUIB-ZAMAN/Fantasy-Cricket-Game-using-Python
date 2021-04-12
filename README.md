@@ -36,7 +36,19 @@ Fantasy Cricket Game is built in python using "PyQt5" library specifically  "QtD
       * 10 points for economy rate less than 2
    * Fielding
       * 10 points each for catch/stumping/run out
- 
+
+## Screenshots
+- Creating a New Team
+><img width="440" alt="pic1" src="https://user-images.githubusercontent.com/64305732/114379896-08896d80-9ba7-11eb-990f-d3c2a41e7513.png">
+
+- Selecting Team Members
+><img width="440" alt="pic1" src="https://user-images.githubusercontent.com/64305732/114380234-7cc41100-9ba7-11eb-8799-ff9fd2557df7.png">
+
+
+- Evaluation of the Team
+><img width="440" alt="pic1" src="https://user-images.githubusercontent.com/64305732/114380481-c0b71600-9ba7-11eb-8d6a-8f9dbb530440.png">
+
+
 ## Requirements
 ### Install Some Necessary Packages and Softwares
 
