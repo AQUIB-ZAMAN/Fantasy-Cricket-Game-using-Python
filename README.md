@@ -60,7 +60,7 @@ Fantasy Cricket Game is built in python using "PyQt5" library specifically  "QtD
  * Open Command Prompt by using Shortcut (Window key+R) and type cmd.
  * Type following command in cmd :-
       * pip install db-sqlite3
- 3) [Install](https://sqlitestudio.pl/index.rvt?act=download) Sqlite3 Studio
+ 3) [Install](https://sqlitestudio.pl/) Sqlite3 Studio
  
  ## Run 
  - Run`Fantasy_Cricket (MAIN).py` file on CMD.
